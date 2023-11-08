@@ -376,7 +376,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://github.com/stretchr/testify">Testify</a></sub>
   <br>
-  <sub>v1.2.2</sub>
+  <sub></sub>
 </td>
 
 <td align='center'>
