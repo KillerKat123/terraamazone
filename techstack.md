@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 KillerKat123/terraamazone is built on the following main stack:
+
 - [Linode](https://www.linode.com) – Cloud Hosting
 - [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
 - [Golang](http://golang.org/) – Languages
@@ -28,7 +29,6 @@ KillerKat123/terraamazone is built on the following main stack:
 - [Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator/) – Database Tools
 - [dbForge Fusion for MySQL](https://www.devart.com/dbforge/mysql/fusion/) – Database Tools
 - [dbForge Schema Compare for Redshift/PostgreSQL](https://www.devart.com/dbforge/postgresql/schemacompare/) – Database Tools
-- [Savio.io](https://www.savio.io/) – Feedback Widget
 - [AwesomeTechStack.com](https://awesometechstack.com) – Website Monitoring
 - [Igel](https://igel.readthedocs.io/en/latest/) – Machine Learning Tools
 - [PAM](https://www.statestreet.com/solutions/by-capability/ssgs/invest-service/accounting.html) – Accounting
@@ -60,11 +60,13 @@ KillerKat123/terraamazone is built on the following main stack:
 - [Juniper GraphQL](https://crates.io/crates/juniper) – GraphQL Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 KillerKat123/terraamazone is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/24/631d437cd8e04903f69766a85d8a5540.png' alt='Linode'/> [Linode](https://www.linode.com) – Cloud Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg' alt='DigitalOcean'/> [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
@@ -91,7 +93,6 @@ KillerKat123/terraamazone is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/21191/default_1d21287b1234e1c633629cd5f671afd79b33b571.png' alt='Data Generator for Oracle'/> [Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21198/default_18ca3e5076366a76c68a92fe59258b3b335cdae1.png' alt='dbForge Fusion for MySQL'/> [dbForge Fusion for MySQL](https://www.devart.com/dbforge/mysql/fusion/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png' alt='dbForge Schema Compare for Redshift/PostgreSQL'/> [dbForge Schema Compare for Redshift/PostgreSQL](https://www.devart.com/dbforge/postgresql/schemacompare/) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png' alt='Savio.io'/> [Savio.io](https://www.savio.io/) – Feedback Widget
 - <img width='25' height='25' src='https://img.stackshare.io/service/21226/default_bca366978a34411f6b8f9a835b75c3b6c1ddf00a.png' alt='AwesomeTechStack.com'/> [AwesomeTechStack.com](https://awesometechstack.com) – Website Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/21270/default_0084eb995a5780183a4b75eec1dfb1e4a7b606a7.jpg' alt='Igel'/> [Igel](https://igel.readthedocs.io/en/latest/) – Machine Learning Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21288/default_c7533b08b125c80abcc5a1f8d76cd7aed9b8f4f8.jpg' alt='PAM'/> [PAM](https://www.statestreet.com/solutions/by-capability/ssgs/invest-service/accounting.html) – Accounting
@@ -123,15 +124,16 @@ KillerKat123/terraamazone is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/21838/default_f77f1e94d558e229a982490ddb0fc39a81ea2e84.png' alt='Juniper GraphQL'/> [Juniper GraphQL](https://crates.io/crates/juniper) – GraphQL Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [KillerKat123/terraamazone](https://github.com/KillerKat123/terraamazone)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|137<br/>Tools used|152<br/>Contributors|11/08/23 <br/>Report generated|04/02/23<br/>Last commit date|
-|------|------|------|------|
+|136<br/>Tools used|02/08/24 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
@@ -376,7 +378,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://github.com/stretchr/testify">Testify</a></sub>
   <br>
-  <sub></sub>
+  <sub>v1.2.2</sub>
 </td>
 
 <td align='center'>
@@ -464,7 +466,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (57)
+## Other (56)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21140/default_8a94513f1340db48c564130fc609b4ce3d010a76.png' alt='Abstract APIs'>
@@ -763,14 +765,6 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png' alt='Savio.io'>
-  <br>
-  <sub><a href="https://www.savio.io/">Savio.io</a></sub>
-  <br>
-  <sub>v0.0.9</sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21946/default_9b94129044330ec33db4e43dfa01b28f777af349.png' alt='Scribe by Cursive'>
   <br>
   <sub><a href="https://cursive.io/scribe">Scribe by Cursive</a></sub>
@@ -794,9 +788,7 @@ Full tech stack [here](/techstack.md)
   <sub>v1.1.0</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21841/default_b5a2e282bf6a607a5275246db8d4b596cc0b794e.png' alt='Upfeed'>
   <br>
   <sub><a href="https://www.upfeed.co/">Upfeed</a></sub>
@@ -804,7 +796,9 @@ Full tech stack [here](/techstack.md)
   <sub>v1.4.2</sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png' alt='WSL'>
   <br>
   <sub><a href="https://docs.microsoft.com/en-us/windows/wsl/about">WSL</a></sub>
@@ -860,9 +854,7 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21151/default_694421a607ee3b50a4add2e20d781a7ad15ab0b4.png' alt='firebase remote config'>
   <br>
   <sub><a href="https://firebase.google.com/docs/remote-config">firebase remote config</a></sub>
@@ -870,7 +862,9 @@ Full tech stack [here](/techstack.md)
   <sub>v0.26.0</sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png' alt='go '>
   <br>
   <sub><a href="https://golang.org/">go </a></sub>
@@ -926,9 +920,7 @@ Full tech stack [here](/techstack.md)
   <sub>v0.19.3</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21201/default_80012ffc0fdda5946338789250eab4bd462bfa97.png' alt='rennflow'>
   <br>
   <sub><a href="https://rennflow.com">rennflow</a></sub>
@@ -946,51 +938,51 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[apparmor](https://pkg.go.dev/github.com/opencontainers/runc/libcontainer/apparmor)|v0.9.1|N/A|N/A |Apache-2.0|N/A|
-|[blkiodev](https://pkg.go.dev/github.com/docker/engine-api/types/blkiodev)|v1.0.0|N/A|N/A |Apache-2.0|N/A|
-|[blockstorage/v1/volumes](https://pkg.go.dev/github.com/rackspace/gophercloud/rackspace/blockstorage/v1/volumes)|v0.0.0|N/A|N/A |Other|N/A|
-|[bloom](https://pkg.go.dev/github.com/willf/bloom)|v0.1.0|N/A|N/A |BSD-2-Clause|N/A|
-|[bufs](https://pkg.go.dev/github.com/cznic/bufs)|v0.1.0|N/A|N/A |BSD-3-Clause|N/A|
-|[cast](https://pkg.go.dev/github.com/spf13/cast)|v1.0.0|N/A|N/A |MIT|N/A|
-|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.2|N/A|N/A |Apache-2.0|N/A|
-|[coordinate](https://pkg.go.dev/github.com/hashicorp/serf/coordinate)|v1.10.1|N/A|N/A |MPL-2.0|N/A|
-|[debug](https://pkg.go.dev/github.com/vmware/govmomi/vim25/debug)|N/A|N/A|N/A |Apache-2.0|N/A|
-|[distribution/uuid](https://pkg.go.dev/github.com/docker/distribution/uuid)|v1.1.0|N/A|N/A |Apache-2.0|N/A|
-|[easyjson](https://pkg.go.dev/github.com/mailru/easyjson)|v0.0.0|N/A|N/A |MIT|N/A|
-|[etcdserver/auth](https://pkg.go.dev/github.com/coreos/etcd/etcdserver/auth)|v0.50.2|N/A|N/A |Apache-2.0|N/A|
-|[executor](https://pkg.go.dev/github.com/mesos/mesos-go/executor)|v1.3.2|N/A|N/A |Apache-2.0|N/A|
-|[federation](https://pkg.go.dev/k8s.io/kubernetes/federation/apis/federation)|v9.19.0|N/A|N/A |Apache-2.0|N/A|
-|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.0.1|N/A|N/A |BSD-3-Clause|N/A|
-|[go-ini](https://pkg.go.dev/github.com/vaughan0/go-ini)|v0.0.0|N/A|N/A |MIT|N/A|
-|[go-openapi/errors](https://pkg.go.dev/github.com/go-openapi/errors)|v0.19.2|N/A|N/A |Apache-2.0|N/A|
-|[go/internal](https://pkg.go.dev/cloud.google.com/go/internal)|v0.5.1|N/A|N/A |Apache-2.0|N/A|
-|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v0.0.0|N/A|N/A |MIT|N/A|
-|[gorp.v1](https://pkg.go.dev/gopkg.in/gorp.v1)|N/A|N/A|N/A |N/A|N/A|
-|[govalidator](https://pkg.go.dev/github.com/asaskevich/govalidator)|v0.0.0|N/A|N/A |MIT|N/A|
-|[http/mux](https://pkg.go.dev/github.com/google/cadvisor/http/mux)|v1.0.0|N/A|N/A |Other|N/A|
-|[influxdb/models](https://pkg.go.dev/github.com/influxdb/influxdb/models)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[jlexer](https://pkg.go.dev/github.com/mailru/easyjson/jlexer)|v0.0.0|N/A|N/A |MIT|N/A|
-|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.5|N/A|N/A |BSD-3-Clause|N/A|
-|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkg/ioutils](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils)|v0.5.0|N/A|N/A |BSD-2-Clause|N/A|
-|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[registry/service](https://pkg.go.dev/k8s.io/kubernetes/pkg/registry/service)|v1.1.0|N/A|N/A |Apache-2.0|N/A|
-|[snappb](https://pkg.go.dev/github.com/coreos/etcd/snap/snappb)|v0.13.6|N/A|N/A |Apache-2.0|N/A|
-|[strfmt](https://pkg.go.dev/github.com/go-openapi/strfmt)|v0.19.4|N/A|N/A |Apache-2.0|N/A|
-|[swag](https://pkg.go.dev/github.com/go-openapi/swag)|v0.19.5|N/A|N/A |Apache-2.0|N/A|
-|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|N/A|N/A |MIT|N/A|
-|[sysinfo](https://pkg.go.dev/github.com/google/cadvisor/utils/sysinfo)|v0.0.0|N/A|N/A |Other|N/A|
-|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.0.0|N/A|N/A |MIT|N/A|
-|[traditionalchinese](https://pkg.go.dev/golang.org/x/text/encoding/traditionalchinese)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[typed/discovery](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/typed/discovery)|v0.16.0|N/A|N/A |Apache-2.0|N/A|
-|[universal-translator](https://pkg.go.dev/github.com/go-playground/universal-translator)|v1.1.2|N/A|N/A |MIT|N/A|
-|[utils/tail](https://pkg.go.dev/github.com/google/cadvisor/utils/tail)|v0.12.1|N/A|N/A |Other|N/A|
-|[v2http](https://pkg.go.dev/github.com/coreos/etcd/etcdserver/api/v2http)|v2.6.0|N/A|N/A |Apache-2.0|N/A|
-|[xmlutil](https://pkg.go.dev/github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[yaml.v1](https://pkg.go.dev/gopkg.in/yaml.v1)|v0.9.0|N/A|N/A |N/A|N/A|
+|[apparmor](https://pkg.go.dev/github.com/opencontainers/runc/libcontainer/apparmor)|v0.9.1|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[blkiodev](https://pkg.go.dev/github.com/docker/engine-api/types/blkiodev)|v1.0.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[blockstorage/v1/volumes](https://pkg.go.dev/github.com/rackspace/gophercloud/rackspace/blockstorage/v1/volumes)|v0.0.0|04/02/23|dependabot[bot] |Other|N/A|
+|[bloom](https://pkg.go.dev/github.com/willf/bloom)|v0.1.0|04/02/23|dependabot[bot] |BSD-2-Clause|N/A|
+|[bufs](https://pkg.go.dev/github.com/cznic/bufs)|v0.1.0|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[cast](https://pkg.go.dev/github.com/spf13/cast)|v1.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.2|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[coordinate](https://pkg.go.dev/github.com/hashicorp/serf/coordinate)|v1.10.1|04/02/23|dependabot[bot] |MPL-2.0|N/A|
+|[debug](https://pkg.go.dev/github.com/vmware/govmomi/vim25/debug)|N/A|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[distribution/uuid](https://pkg.go.dev/github.com/docker/distribution/uuid)|v1.1.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[easyjson](https://pkg.go.dev/github.com/mailru/easyjson)|v0.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[etcdserver/auth](https://pkg.go.dev/github.com/coreos/etcd/etcdserver/auth)|v0.50.2|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[executor](https://pkg.go.dev/github.com/mesos/mesos-go/executor)|v1.3.2|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[federation](https://pkg.go.dev/k8s.io/kubernetes/federation/apis/federation)|v9.19.0|11/19/22|Rui Chen |Apache-2.0|N/A|
+|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.0.1|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[go-ini](https://pkg.go.dev/github.com/vaughan0/go-ini)|v0.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[go-openapi/errors](https://pkg.go.dev/github.com/go-openapi/errors)|v0.19.2|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[go/internal](https://pkg.go.dev/cloud.google.com/go/internal)|v0.5.1|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v0.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[gorp.v1](https://pkg.go.dev/gopkg.in/gorp.v1)|N/A|04/02/23|dependabot[bot] |N/A|N/A|
+|[govalidator](https://pkg.go.dev/github.com/asaskevich/govalidator)|v0.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[http/mux](https://pkg.go.dev/github.com/google/cadvisor/http/mux)|v1.0.0|04/02/23|dependabot[bot] |Other|N/A|
+|[influxdb/models](https://pkg.go.dev/github.com/influxdb/influxdb/models)|v0.0.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[jlexer](https://pkg.go.dev/github.com/mailru/easyjson/jlexer)|v0.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.5|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[pkg/ioutils](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils)|v0.5.0|04/02/23|dependabot[bot] |BSD-2-Clause|N/A|
+|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v0.0.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[registry/service](https://pkg.go.dev/k8s.io/kubernetes/pkg/registry/service)|v1.1.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[snappb](https://pkg.go.dev/github.com/coreos/etcd/snap/snappb)|v0.13.6|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[strfmt](https://pkg.go.dev/github.com/go-openapi/strfmt)|v0.19.4|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[swag](https://pkg.go.dev/github.com/go-openapi/swag)|v0.19.5|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[sysinfo](https://pkg.go.dev/github.com/google/cadvisor/utils/sysinfo)|v0.0.0|04/02/23|dependabot[bot] |Other|N/A|
+|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[traditionalchinese](https://pkg.go.dev/golang.org/x/text/encoding/traditionalchinese)|v0.0.0|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[typed/discovery](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/typed/discovery)|v0.16.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[universal-translator](https://pkg.go.dev/github.com/go-playground/universal-translator)|v1.1.2|04/02/23|dependabot[bot] |MIT|N/A|
+|[utils/tail](https://pkg.go.dev/github.com/google/cadvisor/utils/tail)|v0.12.1|04/02/23|dependabot[bot] |Other|N/A|
+|[v2http](https://pkg.go.dev/github.com/coreos/etcd/etcdserver/api/v2http)|v2.6.0|11/19/22|Rui Chen |Apache-2.0|N/A|
+|[xmlutil](https://pkg.go.dev/github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil)|v0.0.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[yaml.v1](https://pkg.go.dev/gopkg.in/yaml.v1)|v0.9.0|04/02/23|dependabot[bot] |N/A|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
